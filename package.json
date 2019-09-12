@@ -5,7 +5,7 @@
   "author": "Hryhorii Miezin",
   "license": "MIT",
   "scripts": {
-    "tests": "karma start"
+    "test": "karma start"
   },
   "dependencies": {
     "jasmine-core": "^3.4.0",
